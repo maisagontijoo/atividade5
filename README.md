@@ -55,18 +55,18 @@ Para executar o arquivo contendo as atividades siga os seguintes passos:
  
 # Parte 4: Relatório Final
 
-## 1. Quais foram as principais dificuldades encontradas?
+### 1. Quais foram as principais dificuldades encontradas?
 Entender como lidar com erros em Stream e usar await for.
 
-## 2. Como você resolveu essas dificuldades?
+### 2. Como você resolveu essas dificuldades?
 Testei exemplos pequenos, verificando se estava tudo funcionando corretamente, vi a ordem de execução e usei try-catch.
 
-## 3. Qual a principal diferença prática entre usar then/catchError e async/await?
+### 3. Qual a principal diferença prática entre usar then/catchError e async/await?
 - `then`/`catchError` usa callbacks e pode ser útil para casos mais simples.
 - `async`/`await` é mais organizado e fácil de ler, parece com o código normal.
 
-## 4. Em que situações do mundo real você usaria Streams?
+### 4. Em que situações do mundo real você usaria Streams?
 Em downloads, sensores, eventos de usuário, chats, upload de arquivos, etc.
 
-## 5. O que você aprendeu de mais importante nesta atividade?
+### 5. O que você aprendeu de mais importante nesta atividade?
 Aprendi a usar Future, Stream, e a lidar com tarefas assíncronas no Dart de forma mais controlada.
