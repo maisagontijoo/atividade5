@@ -1,6 +1,6 @@
 # Atividade Prática - Funções Assíncronas, Future e Stream em Dart
 
-# Parte 1: Pesquisa Teórica
+## Parte 1: Pesquisa Teórica
 
 ## Funções Assíncronas
 ### 1. O que são funções assíncronas?
@@ -40,7 +40,7 @@ Um Future representa um valor que estará disponível no futuro.
 - `take`: limita a quantidade.
 
 
-# Parte 2 e 3: Atividade Prática e Desafio
+## Parte 2 e 3: Atividade Prática e Desafio
 
 Para executar o arquivo contendo as atividades siga os seguintes passos:
 - Certifique-se de ter Dart instalado.
@@ -53,7 +53,7 @@ Para executar o arquivo contendo as atividades siga os seguintes passos:
   - Para executar o desafio: `dart run bin/sistemaDownload.dart`
 
  
-# Parte 4: Relatório Final
+## Parte 4: Relatório Final
 
 ### 1. Quais foram as principais dificuldades encontradas?
 Entender como lidar com erros em Stream e usar await for.
